@@ -1,0 +1,309 @@
+{
+    "data": [
+        {
+            "LOAD_ID": "80001",
+            "LOAD_NAME": "电脑",
+            "VALUE": 6.3599999733269215,
+            "ST": [
+                {
+                    "StartTime": "201711120820",
+                    "EndTime": "201711120853",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711120909",
+                    "EndTime": "201711120931",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711120935",
+                    "EndTime": "201711120945",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711120957",
+                    "EndTime": "201711121007",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121020",
+                    "EndTime": "201711121030",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121059",
+                    "EndTime": "201711121122",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121125",
+                    "EndTime": "201711121131",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121137",
+                    "EndTime": "201711121149",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121152",
+                    "EndTime": "201711121158",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121208",
+                    "EndTime": "201711121215",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121246",
+                    "EndTime": "201711121308",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121333",
+                    "EndTime": "201711121341",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121352",
+                    "EndTime": "201711121405",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121432",
+                    "EndTime": "201711121456",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121527",
+                    "EndTime": "201711121548",
+                    "status": 1
+                }
+            ]
+        },
+        {
+            "LOAD_ID": "90001",
+            "LOAD_NAME": "饮水机",
+            "VALUE": 1.359999980777502,
+            "ST": [
+                {
+                    "StartTime": "201711120045",
+                    "EndTime": "201711120112",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711120135",
+                    "EndTime": "201711120202",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711120248",
+                    "EndTime": "201711120316",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711120338",
+                    "EndTime": "201711120405",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711120452",
+                    "EndTime": "201711120518",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711120541",
+                    "EndTime": "201711120607",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711120653",
+                    "EndTime": "201711120720",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711120742",
+                    "EndTime": "201711120808",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711120820",
+                    "EndTime": "201711120853",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711120909",
+                    "EndTime": "201711120931",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711120935",
+                    "EndTime": "201711120945",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711120957",
+                    "EndTime": "201711121007",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121020",
+                    "EndTime": "201711121030",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121059",
+                    "EndTime": "201711121122",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121125",
+                    "EndTime": "201711121131",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121137",
+                    "EndTime": "201711121149",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121152",
+                    "EndTime": "201711121158",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121208",
+                    "EndTime": "201711121215",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121246",
+                    "EndTime": "201711121308",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121333",
+                    "EndTime": "201711121341",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121352",
+                    "EndTime": "201711121405",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121432",
+                    "EndTime": "201711121456",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121527",
+                    "EndTime": "201711121548",
+                    "status": 1
+                }
+            ]
+        },
+        {
+            "LOAD_ID": "9970001",
+            "LOAD_NAME": "其他",
+            "VALUE": 0.3000000026077032,
+            "ST": [
+                {
+                    "StartTime": "201711121314",
+                    "EndTime": "201711121315",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121334",
+                    "EndTime": "201711121345",
+                    "status": 1
+                }
+            ]
+        },
+        {
+            "LOAD_ID": "120002",
+            "LOAD_NAME": "电吹风",
+            "VALUE": 0.15351471491158009,
+            "ST": [
+                {
+                    "StartTime": "201711121042",
+                    "EndTime": "201711121110",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121115",
+                    "EndTime": "201711121143",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121144",
+                    "EndTime": "201711121145",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121146",
+                    "EndTime": "201711121146",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121147",
+                    "EndTime": "201711121147",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121322",
+                    "EndTime": "201711121329",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121329",
+                    "EndTime": "201711121330",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121331",
+                    "EndTime": "201711121331",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121331",
+                    "EndTime": "201711121331",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121418",
+                    "EndTime": "201711121420",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121422",
+                    "EndTime": "201711121423",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121629",
+                    "EndTime": "201711121630",
+                    "status": 1
+                },
+                {
+                    "StartTime": "201711121631",
+                    "EndTime": "20171112163227",
+                    "status": 1
+                }
+            ]
+        },
+        {
+            "LOAD_ID": "100001",
+            "LOAD_NAME": "电热水壶",
+            "VALUE": 0.1164852799847722,
+            "ST": [
+                {
+                    "StartTime": "201711120921",
+                    "EndTime": "20171112092654",
+                    "status": 1
+                }
+            ]
+        }
+    ]
+}

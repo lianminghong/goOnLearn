@@ -1,0 +1,1 @@
+document.getElementsByTagName('p')[0].innerHTML='修改后内容';
